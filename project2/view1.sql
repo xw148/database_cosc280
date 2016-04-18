@@ -1,0 +1,1 @@
+insert into Order_info(order_id,nbr_tickets) values 
